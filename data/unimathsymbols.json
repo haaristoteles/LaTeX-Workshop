@@ -21,7 +21,7 @@
   },
   "Angstrom": {
     "command": "Angstrom",
-    "detail": "Å (\"wrisym\" command)",
+    "detail": "Å (\"wrisym\" command)",
     "documentation": "# \\mathring{\\mathrm{A}}, Ångström capital A with ring"
   },
   "Barv": {
@@ -1187,12 +1187,12 @@
   "bigvee": {
     "command": "bigvee",
     "detail": "⋁",
-    "documentation": "logical and operator"
+    "documentation": "logical or operator"
   },
   "bigwedge": {
     "command": "bigwedge",
     "detail": "⋀",
-    "documentation": "logical or operator"
+    "documentation": "logical and operator"
   },
   "bigwhitestar": {
     "command": "bigwhitestar",
@@ -1936,7 +1936,7 @@
   },
   "ddot": {
     "command": "ddot",
-    "detail": "ẍ",
+    "detail": "ẍ",
     "documentation": "= \\DDot (wrisym), dieresis"
   },
   "ddots": {
@@ -2056,7 +2056,7 @@
   },
   "dot": {
     "command": "dot",
-    "detail": "ẋ",
+    "detail": "ẋ",
     "documentation": "= \\Dot (wrisym), dot above"
   },
   "doteq": {
@@ -2551,7 +2551,7 @@
   },
   "forks": {
     "command": "forks",
-    "detail": "⫝̸",
+    "detail": "⫝̸",
     "documentation": "FORKING"
   },
   "forksnot": {
